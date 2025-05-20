@@ -47,9 +47,9 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaroonSaifi17&show_icons=true&locale=en" alt="Aariz's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaroonSaifi17" alt="Aariz's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HaroonSaifi17&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarizkhan-lorem&show_icons=true&locale=en" alt="Aariz's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarizkhan-lorem" alt="Aariz's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aarizkhan-lorem&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
